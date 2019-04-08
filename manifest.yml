@@ -1,6 +1,6 @@
 ---
 applications:
 - name: cf-scale-boot
-  memory: 768M
+  memory: 1G
   instances: 1
   random-route: true
