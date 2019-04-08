@@ -1,7 +1,7 @@
-@Grab('org.springframework.cloud:spring-cloud-spring-service-connector:1.1.1.RELEASE')
-@Grab('org.springframework.cloud:spring-cloud-cloudfoundry-connector:1.1.1.RELEASE')
-@Grab(group='org.springframework.boot', module='spring-boot-starter-actuator', version='1.1.9.RELEASE')
-@Grab(group='org.springframework.boot', module='spring-boot-starter-thymeleaf', version='1.1.9.RELEASE')
+@Grab('org.springframework.cloud:spring-cloud-spring-service-connector:2.0.5.RELEASE')
+@Grab('org.springframework.cloud:spring-cloud-cloudfoundry-connector:2.0.5.RELEASE')
+@Grab(group='org.springframework.boot', module='spring-boot-starter-actuator', version='2.1.3.RELEASE')
+@Grab(group='org.springframework.boot', module='spring-boot-starter-thymeleaf', version='2.1.3.RELEASE')
 
 import org.springframework.cloud.Cloud
 import org.springframework.cloud.CloudFactory
